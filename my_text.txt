@@ -1,5 +1,5 @@
 Hello world
-It’s the first exercise in I/O
+It's the first exercise in I/O
 That mean it is number 1
 Not 2
 Not three
